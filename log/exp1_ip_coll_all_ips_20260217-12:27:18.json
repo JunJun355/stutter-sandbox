@@ -1,0 +1,465 @@
+{
+  "experiment": "exp1_ip_coll_dns_probe",
+  "run_timestamp": "20260217-12:27:18",
+  "created_at_utc": "2026-02-17T17:27:18.605841+00:00",
+  "repetitions": 1,
+  "domain_count": 57,
+  "domains": [
+    {
+      "platform": "Amazon",
+      "domain": "amazon.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Asana",
+      "domain": "asana.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Behance",
+      "domain": "behance.net",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "BibMe",
+      "domain": "bibme.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Blackboard",
+      "domain": "blackboard.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Google Calendar",
+      "domain": "calendar.google.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Chegg",
+      "domain": "chegg.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Course Hero",
+      "domain": "coursehero.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Coursera",
+      "domain": "coursera.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Brightspace (D2L)",
+      "domain": "d2l.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Desmos",
+      "domain": "desmos.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Discord",
+      "domain": "discord.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "DoorDash",
+      "domain": "doordash.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Google Drive",
+      "domain": "drive.google.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "EasyBib",
+      "domain": "easybib.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "edX",
+      "domain": "edx.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "GeoGebra",
+      "domain": "geogebra.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "GitHub",
+      "domain": "github.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Glassdoor",
+      "domain": "glassdoor.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Grammarly",
+      "domain": "grammarly.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Hemingway Editor",
+      "domain": "hemingwayapp.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "ILovePDF",
+      "domain": "ilovepdf.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Indeed",
+      "domain": "indeed.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Instagram",
+      "domain": "instagram.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Canvas",
+      "domain": "instructure.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Handshake",
+      "domain": "joinhandshake.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "JSTOR",
+      "domain": "jstor.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "LeetCode",
+      "domain": "leetcode.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "LinkedIn",
+      "domain": "linkedin.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Gmail",
+      "domain": "mail.google.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Moodle",
+      "domain": "moodle.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "UNiDAYS",
+      "domain": "myunidays.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Netflix",
+      "domain": "netflix.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Notion",
+      "domain": "notion.so",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Microsoft 365",
+      "domain": "office.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Microsoft Outlook",
+      "domain": "outlook.office.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Purdue OWL",
+      "domain": "owl.purdue.edu",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "PubMed",
+      "domain": "pubmed.ncbi.nlm.nih.gov",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Quizlet",
+      "domain": "quizlet.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Reddit",
+      "domain": "reddit.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Google Scholar",
+      "domain": "scholar.google.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Slack",
+      "domain": "slack.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Smallpdf",
+      "domain": "smallpdf.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Spotify",
+      "domain": "spotify.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Stack Overflow",
+      "domain": "stackoverflow.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "StudentBeans",
+      "domain": "studentbeans.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Microsoft Teams",
+      "domain": "teams.microsoft.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "TikTok",
+      "domain": "tiktok.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Trello",
+      "domain": "trello.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Twitch",
+      "domain": "twitch.tv",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Uber Eats",
+      "domain": "ubereats.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "W3Schools",
+      "domain": "w3schools.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Wikipedia",
+      "domain": "wikipedia.org",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "WolframAlpha",
+      "domain": "wolframalpha.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "X (Twitter)",
+      "domain": "x.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "YouTube",
+      "domain": "youtube.com",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    },
+    {
+      "platform": "Zoom",
+      "domain": "zoom.us",
+      "all_ips": [],
+      "polls_with_error": 1,
+      "ip_set_variants": 1,
+      "changed_across_polls": false
+    }
+  ]
+}

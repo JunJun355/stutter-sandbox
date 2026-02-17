@@ -1,0 +1,70 @@
+{
+  "experiment": "exp1_ip_coll_dns_probe",
+  "run_timestamp": "20260217-12:47:07",
+  "created_at_utc": "2026-02-17T17:47:10.088991+00:00",
+  "collision_count": 4,
+  "collisions": [
+    {
+      "ip": "13.35.107.88",
+      "domain_count": 3,
+      "domains": [
+        "bibme.org",
+        "coursera.org",
+        "geogebra.org"
+      ],
+      "platforms": [
+        "BibMe",
+        "Coursera",
+        "GeoGebra"
+      ],
+      "repetitions_seen": [
+        1
+      ]
+    },
+    {
+      "ip": "13.35.107.24",
+      "domain_count": 2,
+      "domains": [
+        "bibme.org",
+        "coursera.org"
+      ],
+      "platforms": [
+        "BibMe",
+        "Coursera"
+      ],
+      "repetitions_seen": [
+        1
+      ]
+    },
+    {
+      "ip": "13.35.107.26",
+      "domain_count": 2,
+      "domains": [
+        "bibme.org",
+        "geogebra.org"
+      ],
+      "platforms": [
+        "BibMe",
+        "GeoGebra"
+      ],
+      "repetitions_seen": [
+        1
+      ]
+    },
+    {
+      "ip": "13.35.107.71",
+      "domain_count": 2,
+      "domains": [
+        "coursera.org",
+        "smallpdf.com"
+      ],
+      "platforms": [
+        "Coursera",
+        "Smallpdf"
+      ],
+      "repetitions_seen": [
+        1
+      ]
+    }
+  ]
+}
