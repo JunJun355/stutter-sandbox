@@ -14,7 +14,7 @@ from typing import Any
 
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DEFAULT_INPUT = ROOT_DIR / "data" / "exp1_ip_coll_domains.json"
+DEFAULT_INPUT = ROOT_DIR / "data" / "domains.json"
 LOG_DIR = ROOT_DIR / "log"
 
 
@@ -116,7 +116,7 @@ def collect_repeated_dns(
             time.sleep(wait_seconds)
 
     return {
-        "experiment": "exp1_ip_coll_dns_probe",
+        "experiment": "dns_probe",
         "run_timestamp": stamp,
         "created_at_utc": utc_now_iso(),
         "repetitions": repetitions,
@@ -257,10 +257,10 @@ def main() -> None:
     args = parse_args()
     targets = load_targets(args.input)
     stamp = run_timestamp()
-    all_ips_output = args.all_ips_output or LOG_DIR / f"exp1_ip_coll_all_ips_{stamp}.json"
+    all_ips_output = args.all_ips_output or LOG_DIR / f"all_ips_{stamp}.json"
     collisions_output = (
         args.collisions_output
-        or LOG_DIR / f"exp1_ip_coll_possible_collisions_{stamp}.json"
+        or LOG_DIR / f"possible_collisions_{stamp}.json"
     )
 
     observations = collect_repeated_dns(
