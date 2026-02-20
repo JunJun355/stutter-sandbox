@@ -1,0 +1,5 @@
+Loaded 82 split domains from /Users/jaywujun/development/stutter-sandbox/exp2_dns_middleman/data/splits.json
+Starting DNS middleman on 127.0.0.1:53 -> 1.1.1.1:53
+Ordered output: /Users/jaywujun/development/stutter-sandbox/exp2_dns_middleman/log/ordered_domains_20260220-11:44:54.txt
+Split output:   /Users/jaywujun/development/stutter-sandbox/exp2_dns_middleman/log/domain_splits_20260220-11:44:54.json
+Stopped. Total captured DNS events: 157

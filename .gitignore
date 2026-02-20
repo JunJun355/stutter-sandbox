@@ -1,1 +1,12 @@
-*/src/__pycache__
+# macOS
+.DS_Store
+
+# Python
+**/__pycache__/
+*.py[cod]
+
+# Experiment runtime artifacts
+#exp1_ip_collisions/log/*
+#exp2_dns_middleman/log/*
+#exp3_no_youtube/log/*
+exp3_no_youtube/data/browser_profile/

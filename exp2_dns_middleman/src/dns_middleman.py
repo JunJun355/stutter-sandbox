@@ -177,7 +177,7 @@ class DNSMiddleman:
         self.query_count = 0
 
         self.ordered_path = (
-            self.log_dir / f"ordered_domains_{self.run_stamp}.json"
+            self.log_dir / f"ordered_domains_{self.run_stamp}.txt"
         )
         self.split_path = (
             self.log_dir / f"domain_splits_{self.run_stamp}.json"
@@ -207,10 +207,8 @@ class DNSMiddleman:
 
     def record_event(self, domain: str, ips: list[str]) -> None:
         ts = event_timestamp()
-        line = json.dumps(
-            {"domain": domain, "time": ts, "ips": ips},
-            separators=(",", ":"),
-        )
+        ips_text = ", ".join(ips)
+        line = f"[{domain}] @ [{ts}] using [{ips_text}]"
         with self.lock:
             if self.ordered_fp is not None:
                 self.ordered_fp.write(line + "\n")

@@ -1,0 +1,42 @@
+{
+  "created_at_utc": "2026-02-20T16:14:31.587367+00:00",
+  "local_dns": "127.0.0.1",
+  "services": [
+    {
+      "service": "LG Monitor Controls",
+      "dns_servers": []
+    },
+    {
+      "service": "USB Controls",
+      "dns_servers": []
+    },
+    {
+      "service": "USB 10/100/1000 LAN",
+      "dns_servers": []
+    },
+    {
+      "service": "Pixel 7 Pro",
+      "dns_servers": []
+    },
+    {
+      "service": "Pixel 8 Pro",
+      "dns_servers": []
+    },
+    {
+      "service": "AX88179A",
+      "dns_servers": []
+    },
+    {
+      "service": "Wi-Fi",
+      "dns_servers": []
+    },
+    {
+      "service": "Thunderbolt Bridge",
+      "dns_servers": []
+    },
+    {
+      "service": "iPhone USB",
+      "dns_servers": []
+    }
+  ]
+}
