@@ -1,0 +1,13 @@
+{
+  "started_at_utc": "2026-02-20T16:46:40.776934+00:00",
+  "initial_url": "https://example.com",
+  "headless": false,
+  "proxy": null,
+  "channel": "chromium",
+  "chromium_args": [
+    "--disable-dns-over-https",
+    "--disable-features=DnsOverHttps,UseDnsHttpsSvcb,UseDnsHttpsSvcbAlpn,AsyncDns",
+    "--disable-quic"
+  ],
+  "profile_dir": "/Users/jaywujun/development/stutter-sandbox/exp3_no_youtube/data/browser_profile"
+}

@@ -1,0 +1,14 @@
+run_stamp: 20260220-12:13:56
+target_domain: youtube.com
+youtube_dns_query_seen: True
+youtube_dns_returned: True
+youtube_dns_ips: 142.250.188.14, 142.250.190.238, 142.250.191.14, 142.250.217.14, 142.250.217.142, 142.250.217.238, 142.250.68.206, 142.250.72.14, 142.250.80.110, 142.251.210.46, 142.251.35.174, 142.251.40.142, 142.251.40.238, 142.251.41.174, 142.251.45.174, 142.251.45.206
+blocked_ips: 142.250.188.14, 142.250.190.238, 142.250.191.14, 142.250.217.14, 142.250.217.142, 142.250.217.238, 142.250.68.206, 142.250.72.14, 142.250.80.110, 142.251.210.46, 142.251.35.174, 142.251.40.142, 142.251.40.238, 142.251.41.174, 142.251.45.174, 142.251.45.206
+blocked_youtube_outgoing_packets: 0
+unblocked_domains: 1-courier.push.apple.com, 231.163.48.10.in-addr.arpa, 47-courier.push.apple.com, _dns.resolver.arpa, accounts.google.com, api.apple-cloudkit.com, api.apple-cloudkit.fe2.apple-dns.net, apple.com, clients2.google.com, docs.google.com, fonts.gstatic.com, googleads.g.doubleclick.net, i.ytimg.com, init.push-apple.com.akadns.net, init.push.apple.com, lb._dns-sd._udp.0.0.48.10.in-addr.arpa, lb._dns-sd._udp.eduroam.cornell.edu, mask.apple-dns.net, mask.icloud.com, music.youtube.com, one.one.one.one, ssl.gstatic.com, static.doubleclick.net, us-ne-courier-4.push-apple.com.akadns.net, www.apple.com, www.google.com, www.gstatic.com
+total_dns_events: 47
+observed_domains_count: 29
+intermediate_log: /Users/jaywujun/development/stutter-sandbox/exp3_no_youtube/log/youtube_block_intermediate_20260220-12:13:56.json
+ordered_log: /Users/jaywujun/development/stutter-sandbox/exp3_no_youtube/log/ordered_domains_20260220-12:13:56.txt
+split_log: /Users/jaywujun/development/stutter-sandbox/exp3_no_youtube/log/domain_splits_20260220-12:13:56.json
+finalized_at_utc: 2026-02-20T17:14:18.704062+00:00
